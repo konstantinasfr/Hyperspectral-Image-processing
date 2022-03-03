@@ -24,12 +24,12 @@ problem so that it will be more fast and easy to handle.
 * Fuzzy
 * Probabilistic
 * Agglomeratives
-         -Single Link
-         -Complete Link
-     *Weighted Pair Group Method with Arithmetic Mean
-     *Unweighted pair group method with arithmetic mean
-     *Weighted pair group method centroid
-     *Ward or minimum variance algorithm agglomerative
+     * Single Link
+     * Complete Link
+     * Weighted Pair Group Method with Arithmetic Mean
+     * Unweighted pair group method with arithmetic mean
+     * Weighted pair group method centroid
+     * Ward or minimum variance algorithm agglomerative
      
 * Item 1
 * Item 2
