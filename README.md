@@ -30,10 +30,14 @@ problem so that it will be more fast and easy to handle.
      * Unweighted pair group method with arithmetic mean
      * Weighted pair group method centroid
      * Ward or minimum variance algorithm agglomerative
-     
-* Item 1
-* Item 2
-* Item 3
-  * Sub Item A
-  * Sub Item B
+ 
+ ## Conclusions
+ In conclusion the best agglomerative algorithm appears to be the Ward algorithm as
+it outperforms the others. However in general the CFO algorithms gave good results
+too, as we saw in case of fuzzy with 10 clusters and k-means with 9 clusters. Probably
+possibilistic is able to give even better results if we perform a most careful tuning. It
+is worth noting that the CFO algorithms were more noisy. Finally, the CFO algorithms
+gave more mediocre results in contrast to the agglomerative ones which gave quite
+bad results, but in the end both categories of algorithms managed to solve the problem
+efficiently.
    
