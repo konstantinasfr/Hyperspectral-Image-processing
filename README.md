@@ -30,4 +30,10 @@ problem so that it will be more fast and easy to handle.
      *Unweighted pair group method with arithmetic mean
      *Weighted pair group method centroid
      *Ward or minimum variance algorithm agglomerative
+     
+     
+* Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
    
