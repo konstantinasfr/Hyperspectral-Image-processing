@@ -19,7 +19,15 @@ extract further conclusions about the accuracy of every clustering algorithm tha
 be used.
 With the use of principal component analysis we will reduse the dimensions of our
 problem so that it will be more fast and easy to handle.
-* Clustering algorithms used
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
+### Clustering algorithms used:
+* k-means
+* Fuzzy
+* Probabilistic
+* Agglomeratives
+     *Single Link
+     *Complete Link
+     *Weighted Pair Group Method with Arithmetic Mean
+     *Unweighted pair group method with arithmetic mean
+     *Weighted pair group method centroid
+     *Ward or minimum variance algorithm agglomerative
+   
